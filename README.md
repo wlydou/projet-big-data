@@ -1,4 +1,4 @@
-# projet-big-data
+# Projet Big Data
 
 - DOUANGPASEUT Willy 
 - VANG FOUA Jérémie 
